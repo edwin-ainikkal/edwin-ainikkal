@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Edwin Ainikkal</h1>
-<h3 align="center">A Computer Science student navigating life, one line of code at a time.</h3>
+<h1 align="left">Hi 👋, I'm Edwin Ainikkal</h1>
+<h3 align="left">A Computer Science student navigating life, one line of code at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwinsajith&label=Profile%20views&color=0e75b6&style=flat" alt="edwinsajith" /> </p>
 
